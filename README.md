@@ -33,7 +33,7 @@ Sidebar with a list of followed users allows easy chat initiation.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nikshere/social-media-website.git
+git clone https://github.com/Vallabhkejgir/Social_media_Website.git
 cd your-repo
 ```
 2. Setup Environment Variables:
